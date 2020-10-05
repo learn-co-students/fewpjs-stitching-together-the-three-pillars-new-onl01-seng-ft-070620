@@ -51,7 +51,7 @@ Your experience will look something like this:
 
 ... which is, nothing happens. That's because we haven't switched on the
 working code yet. We're going to go through, step by step, find the code that
-makes each step work, and demo it to see how it looks in the browser.
+makes each step work, and demo it to see how it looks in the browser. 
 
 Open up your `demo.js` file and take a look at everything there. Find the
 comments that begin with "Step 1." Follow the instructions there to un-comment
